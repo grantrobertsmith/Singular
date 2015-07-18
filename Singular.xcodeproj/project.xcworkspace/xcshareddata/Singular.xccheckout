@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>46FA0301-D84A-4B13-BF3B-9375B55CDBD5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</key>
+		<string>https://github.com/grantrobertsmith/InfoSyncServices</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhone/Singular/Singular.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/grantrobertsmith/InfoSyncServices</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InfoSyncServices</string>
+		</dict>
+	</array>
+</dict>
+</plist>
