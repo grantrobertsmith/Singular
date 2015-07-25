@@ -12,20 +12,24 @@
 	<dict>
 		<key>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</key>
 		<string>https://github.com/grantrobertsmith/InfoSyncServices</string>
+		<key>972D8A5D3B977953B7BD9CD6FD126C754CB4A46F</key>
+		<string>https://github.com/grantrobertsmith/Singular.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iPhone/Singular/Singular.xcodeproj/project.xcworkspace</string>
+	<string>Singular.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</key>
 		<string>../../../..</string>
+		<key>972D8A5D3B977953B7BD9CD6FD126C754CB4A46F</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/grantrobertsmith/InfoSyncServices</string>
+	<string>https://github.com/grantrobertsmith/Singular.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</string>
+	<string>972D8A5D3B977953B7BD9CD6FD126C754CB4A46F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>3D857E6E8BE290D97A62DB39799E5FFD4A7621FC</string>
 			<key>IDESourceControlWCCName</key>
-			<string>InfoSyncServices</string>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>972D8A5D3B977953B7BD9CD6FD126C754CB4A46F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Singular</string>
 		</dict>
 	</array>
 </dict>
